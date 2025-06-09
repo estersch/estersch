@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Ester</h1>
+<h1>Hello! I'm Ester</h1>
 <p>🎓 Aspiring Front-End Developer | 💻 HTML • CSS • JavaScript | 🌱 Always learning and building</p>
 
 ---
